@@ -408,17 +408,6 @@ Because model availability, agent tooling, dependencies, and generated output ca
 
 ---
 
-## About NetworkCoder
-
-NetworkCoder publishes practical AI engineering tests focused on working applications, reproducible workflows, honest limitations, and real execution evidence.
-
-- YouTube: `YOUR_CHANNEL_URL`
-- Video: `YOUR_YOUTUBE_VIDEO_URL`
-
-If you reproduce one of these tests, share what worked, what failed, and what the model built differently in your environment.
-
----
-
 ## Disclaimer
 
 This repository is provided for educational and testing purposes. Review generated code and dependencies before running them, use only synthetic security data, and do not deploy these prototypes to production without appropriate engineering and security review.
